@@ -48,5 +48,36 @@
     "github_repo": "Joybrther/RPG-backup",
     "repo_url": "https://Joybrther.github.io/RPG-backup/",
     "has_system": false
+  },
+  {
+    "name": "custom-idea-pack",
+    "description": "Custom spells, classes, and items, along with franchises like mtg, ff, one piece, and others.",
+    "tags": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "Violetwolf003-beep/custom-idea-pack",
+    "repo_url": "https://Violetwolf003-beep.github.io/custom-idea-pack/",
+    "has_system": false
+  },
+  {
+    "name": "Mobian-Setting",
+    "description": "Classes, Races, spells, and items from the Sonic the hedgehog franchise",
+    "tags": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "Violetwolf003-beep/Mobian-Setting",
+    "repo_url": "https://Violetwolf003-beep.github.io/Mobian-Setting/",
+    "has_system": false
+  },
+  {
+    "name": "Xenoblade-1-and-2-inspired-pack",
+    "description": "classes, weapons, and items inspired by Xenoblade Chronicles 1, and 2",
+    "tags": [],
+    "stars": 0,
+    "github_repo": "Violetwolf003-beep/Xenoblade-1-and-2-inspired-pack",
+    "repo_url": "https://Violetwolf003-beep.github.io/Xenoblade-1-and-2-inspired-pack/",
+    "has_system": false
   }
 ]
