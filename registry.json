@@ -127,6 +127,19 @@
     "has_system": false
   },
   {
+    "name": "DM-TUZ-Races",
+    "description": "Homebrew races made by DM TUZ",
+    "tags": [
+      "5e",
+      "5e2024",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "Junk-Pyle/DM-TUZ-Races",
+    "repo_url": "https://Junk-Pyle.github.io/DM-TUZ-Races/",
+    "has_system": false
+  },
+  {
     "name": "The-Bloodborne-Hunter",
     "description": "This class is home brewed based on the good hunter (the character you play) from bloodborne. this is my first class I have made and don’t know if it’s balanced and it would help for some feedback.",
     "tags": [
